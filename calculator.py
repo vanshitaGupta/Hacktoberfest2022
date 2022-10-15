@@ -4,6 +4,8 @@ import math
 
 # calc class 
 class calc: 
+	
+	"""All operations are defined"""
 
 	def getandreplace(self): 
 
